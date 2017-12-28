@@ -91,10 +91,6 @@ hr {
     }
 
     .img-responsive {
-    display: none;
-  }
-
-  #cover {
     display: block;
     width: 100%;
   }
