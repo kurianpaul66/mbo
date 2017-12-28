@@ -72,6 +72,10 @@ hr {
     display: none;
   }
 
+  .w3-button {
+    font-weight: bold;
+  }
+
 @media (max-width: 750px) {
 
   .column{
