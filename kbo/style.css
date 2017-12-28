@@ -18,7 +18,9 @@
 }
 
 
-
+.w3-bar-item {
+  margin-left: 0px;
+}
 
 .column {
     float: left;
@@ -26,6 +28,11 @@
     display: inline-block;
     margin-bottom: 16px;
     padding: 0 8px;
+}
+
+.column1{
+  float: right;
+  width: 35px;
 }
 
 
@@ -67,9 +74,8 @@ hr {
 }
 
 
-
-#cover {
-    display: none;
+  .w3-button {
+    font-weight: bold;
   }
 
 @media (max-width: 750px) {
@@ -85,10 +91,6 @@ hr {
     }
 
     .img-responsive {
-    display: none;
-  }
-
-  #cover {
     display: block;
     width: 100%;
   }
@@ -114,11 +116,11 @@ hr{
 
 
 #petti11{
-  width: 60%;
+  width: 40%;
 }
 
 #petti12{
-  width: 40%;
+  width: 60%;
 }
 
 #petti21{
@@ -126,11 +128,11 @@ hr{
 }
 
 #petti22{
-  width: 33.33%;
+  width: 30%;
 }
 
 #petti23{
-  width: 33.33%;
+  width: 36%;
 }
 
 
