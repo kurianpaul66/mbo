@@ -96,11 +96,6 @@ hr {
 }
 
 
-#verdict
-{
-  margin-left: 15%;
-}
-
 @media (max-width: 750px) {
 
   .column{
@@ -151,6 +146,11 @@ hr{
 
 #menutitle {
   display: none;
+}
+
+#verdict
+{
+  margin-left: 15%;
 }
 
 }
