@@ -18,7 +18,9 @@
 }
 
 
-
+.w3-bar-item {
+  margin-left: 0px;
+}
 
 .column {
     float: left;
@@ -26,6 +28,11 @@
     display: inline-block;
     margin-bottom: 16px;
     padding: 0 8px;
+}
+
+.column1{
+  float: right;
+  width: 50px;
 }
 
 
@@ -66,11 +73,6 @@ hr {
     border-width: 1px;
 }
 
-
-
-#cover {
-    display: none;
-  }
 
   .w3-button {
     font-weight: bold;
