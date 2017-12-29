@@ -85,10 +85,6 @@ hr {
     font-weight: bold;
   }
 
- #atbb{
-  width: 70%;
-  margin: auto;
- }
 
 #topimage{
   width: 50%;
@@ -151,6 +147,10 @@ hr{
 #verdict
 {
   margin-left: 15%;
+}
+
+#petti{
+  width: 100%;
 }
 
 #petti11{
