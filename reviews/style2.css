@@ -1,0 +1,139 @@
+#menu {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #FDFEFE;
+}
+
+
+.card {
+    overflow: hidden;
+    display: table;
+}
+
+
+.card1{
+   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+   overflow: hidden;
+   display: table;
+}
+
+
+.w3-bar-item {
+  margin-left: 0px;
+}
+
+.column {
+    float: left;
+    margin-bottom: 16px;
+    display: inline-block;
+    margin-bottom: 16px;
+    padding: 0 8px;
+}
+
+.column1{
+  float: right;
+  width: 35px;
+}
+
+
+.card-block{
+     word-wrap: break-word;
+     padding: 2px 16px;
+}
+
+
+
+p.a{
+  font-family: Trebuchet MS;
+  font-weight: bold;
+  font-size: large;
+  text-transform: uppercase;
+}
+
+p.reports{
+  line-height:30px;
+}
+
+p.b {
+  line-height: 28px;
+}
+
+ul.a{
+  list-style-type: none;
+}
+
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+
+  .w3-button {
+    font-weight: bold;
+  }
+
+@media (max-width: 750px) {
+
+  .column{
+        width: 100%;
+        display: block;
+    }
+    
+    #menu {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+    .img-responsive {
+    display: block;
+    width: 100%;
+  }
+
+  p.reports{
+  line-height:40px;
+}
+
+
+hr{
+  width: 100%;
+}
+
+
+}
+
+
+@media (min-width: 750px) {
+
+#menutitle {
+  display: none;
+}
+
+
+#petti11{
+  width: 60%;
+}
+
+#petti12{
+  width: 40%;
+}
+
+#petti21{
+  width: 33.33%;
+}
+
+#petti22{
+  width: 30%;
+}
+
+#petti23{
+  width: 36%;
+}
+
+
+}
