@@ -99,6 +99,10 @@ hr {
   line-height:40px;
 }
 
+#petti02{
+  display: none;
+}
+
 
 hr{
   width: 100%;
@@ -135,5 +139,12 @@ hr{
   width: 36%;
 }
 
+#petti01{
+  width: 40%;
+}
+
+#petti02{
+  width: 60%;
+}
 
 }
