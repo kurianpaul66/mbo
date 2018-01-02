@@ -5,6 +5,11 @@
 }
 
 
+#cover{
+  margin-top: -20px;
+}
+
+
 .card {
     overflow: hidden;
     display: table;
