@@ -80,6 +80,11 @@ hr {
     border-width: 1px;
 }
 
+#atbb{
+  width: 70%;
+  margin: auto;
+}
+
 
   .w3-button {
     font-weight: bold;
@@ -141,6 +146,5 @@ hr{
 #petti23{
   width: 36%;
 }
-
 
 }
